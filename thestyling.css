@@ -1,0 +1,125 @@
+
+#wrapper{
+    width: 950px;
+    background-color: navy;
+    margin: 0px auto;
+    padding: 4px;
+}
+
+#header{
+    height: 80px;
+    background-color: rgb(199, 50, 50);
+    border-radius: 9px;
+    padding: 5px;
+}
+
+h1{
+    color: lightgray;
+    font: bold;
+    align-items: center;
+    vertical-align: middle;
+        
+}
+  
+#navigation{
+    border-radius: 9px;
+    padding: 5px;
+    min-height: 300px;
+    width: 150px;
+    background-color: rgb(38, 133, 118);
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    margin: 25px;
+}
+
+#home {
+    text-decoration: underline;
+    margin: auto;
+    color: rgb(107, 221, 204);
+}
+
+#listTitle {
+    text-decoration: underline;
+    font-size: x-small;
+    margin: auto;
+    color: rgb(107, 221, 204);
+}
+
+.nicebullets{
+    text-decoration: underline;
+    font-size: x-small;
+    color: rgb(75, 201, 201);
+    text-align: left;
+}
+
+#main_content{
+    min-height: 400px;
+    border-radius: 9px;
+    width: 725px;
+    background-color: black;
+    vertical-align: middle;
+    height: auto;
+    box-sizing: border-box;
+    margin: 200px;
+    margin-top: -335px;
+    margin-bottom: 10px;
+    padding: 2px;
+}
+   
+h3{
+    color: lightgray;
+}
+   
+#footer {
+    width: 900px;
+    height: 50px;    
+    background-color: rgb(95, 89, 89);
+    border-radius: 9px;
+    padding: 5px;
+}
+
+p {
+    width: 670px;
+    color: rgb(240, 232, 232);
+    text-align: left;
+    font-size: small;
+    margin: 1px;
+    padding: -10px;
+}
+
+#notes{
+    margin: 3px;
+    text-align: left;
+    font-size: small;
+    margin: 1px;
+    padding: -10px;
+    max-height:fit-content;
+}
+
+#varDec {
+   padding: 1px;
+    text-decoration: underline;
+    width: 670px;
+    color: rgb(38, 224, 224);
+    text-align: left;
+    font-size: small;
+    margin: 1px;
+    padding: -10px;
+    max-height:fit-content;
+}
+
+#link{
+    color: rgb(38, 224, 224);
+    margin: 3px;
+}
+
+#footer p{
+    width: 350px;
+    color: rgb(240, 232, 232);
+    text-align: left;
+    font-size: small;
+}
+
